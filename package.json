@@ -1,13 +1,12 @@
 {
-    "name": "MOOC_html_mod4-MVC_cliente_entrega_sol",
-    "author": "ging-moocs",
-    "license": "GNU",
-    "version": "0.0.0",
+    "name": "modulo10_ejercicio",
+    "license": "Unlicense",
+    "version": "0.0.1",
     "info": {
-        "githubURL": "ging-moocs/MOOC_html_mod4-MVC_cliente_entrega_sol",
+        "githubURL": "lilianasbh/modulo10_ejercicio",
         "serverUrl": "https://autocorector.dit.upm.es/",
         "courseId": "1",
-        "assignmentId": "2"
+        "assignmentId": "18"
     },
     "keywords": [
         "progressive-web-app",
